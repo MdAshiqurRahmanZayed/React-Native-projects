@@ -1,0 +1,44 @@
+{
+     "categories": [
+          {
+               "id": "1",
+               "name": "Fiction"
+          },
+          {
+               "id": "2",
+               "name": "Non-Fiction"
+          },
+          {
+               "id": "3",
+               "name": "Science Fiction"
+          },
+          {
+               "id": "4",
+               "name": "Fantasy"
+          },
+          {
+               "id": "5",
+               "name": "Mystery"
+          },
+          {
+               "id": "6",
+               "name": "Biography"
+          },
+          {
+               "id": "7",
+               "name": "History"
+          },
+          {
+               "id": "8",
+               "name": "Romance"
+          },
+          {
+               "id": "9",
+               "name": "Thriller"
+          },
+          {
+               "id": "10",
+               "name": "Self-Help"
+          }
+     ]
+}
